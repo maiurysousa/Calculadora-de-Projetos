@@ -1,0 +1,63 @@
+body {
+  background-color: #ffbedc;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+}
+
+ section {
+  font-family: 'Areia movediça', sans-serif;
+  box-shadow: 5px 5px 12px 5px rgba(0,0,0,0.48);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+  margin-top: 10px;
+  margin-bottom:50px;
+  background-color: white;
+  padding: 50px;
+  border: 1px solid white;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+header {
+  background-image: url('https://www.ohnuts.com/noapp/showImage.cfm/zoom/pink%20coins1.jpg');
+  box-shadow: 5px 5px 12px 5px rgba(0,0,0,0.48);
+  background-size: cover;
+  height: 80px;
+  width:500px;
+  border-radius: 13px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+input{
+ border-color:#ff93c5;
+ border-radius: 5px; 
+}
+
+button {
+  background-color: #ff93c5;
+  border-radius: 5px;
+  margin-top: 10px;
+  box-shadow: 0px 10px 13px -7px #000000, 0px 0px 22px -30px rgba(0,0,0,0);
+  border: 1px solid #f97db6;
+}
+
+small {
+  color:#ff93c5;
+}
+
+
+html h4 {
+  font-family: 'Areia movediça', sans-serif;
+  color: white;
+  text-align: center;
+  text-shadow: 4px 3px 0 #7A7A7A, 0px 0px 5px rgba(0,0,0,0.55);
+}
