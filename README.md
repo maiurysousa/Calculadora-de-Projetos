@@ -1,4 +1,4 @@
-<h1  align="center">Calculadora-de-Projetos</h1> </div>
+<h1  align="center">Calculadora de Projetos</h1> </div>
 
 <h3 align="center">Desafio proposto no work-shop da Reprograma que é uma iniciativa de impacto social que foca em ensinar programação para mulheres cis e trans.</h3>
 
