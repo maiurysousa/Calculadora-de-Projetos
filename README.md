@@ -4,16 +4,11 @@
 
 + Se trata de uma ferramenta que faz o calculo de um projeto a partir de seu valor por hora. O desafio baseava-se em apenas fazer a calculadora funcionar, porém busquei implementar o design da página a paritr do CSS, adicionando cores, imagens e alterando as fontes.
 
-
-
-<img src="https://github.com/maiurysousa/Calculadora-de-Projetos/blob/main/documenta%C3%A7%C3%A3o/2021-11-17.png"/>
-
 + <h2>⚙ Funcionalidade:</h2>
 
 <div align="center">
-<img height="380" src="https://github.com/maiurysousa/Calculadora-de-Projetos/blob/main/documenta%C3%A7%C3%A3o/2021-11-17%20(2).png"/>
-<img height="380" src="https://github.com/maiurysousa/Calculadora-de-Projetos/blob/main/documenta%C3%A7%C3%A3o/2021-11-17%20(5).png"/>
-<img height="372" src="https://github.com/maiurysousa/Calculadora-de-Projetos/blob/main/documenta%C3%A7%C3%A3o/2021-11-17%20(4).png"/>
+<img height="450" src="https://github.com/maiurysousa/Calculadora-de-Projetos/blob/main/assets/Hnet-image.gif"/>
+
 </div>
   
 + <h2>🛠 Ferramentas utilizadas:</h2>
