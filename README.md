@@ -11,19 +11,16 @@
 
 </div>
   
-+ <h2>🛠 Ferramentas utilizadas:</h2>
+###
 
- <table align="center">
-    <tr>
-        <td><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/></td>
-        <td><img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></td>
-        <td><img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
-    </tr>
-</table>
++ <h2>🛠 Linguagens e Ferramentas Utilizadas</h2>
 
-+ <h2>🖥 Framework de desenvolvimento: </h2>
+- <img align="center" alt="html" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML5
+- <img align="center" alt="css" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS3
+- <img align="center" alt="js" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> JavaScript
 
- <img alt="VScode" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+- <img align="center" alt="Vscode" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> Visual Studio Code
+
 
 
 
